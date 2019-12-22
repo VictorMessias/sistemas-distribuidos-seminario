@@ -1,6 +1,6 @@
 Seminário sobre Data Distribution Service (DDS)
 
-Alunos: Victor Messias da Silva
+Alunos: Victor Messias da Silva,
 	Vinícius S. Nunes
 
 
